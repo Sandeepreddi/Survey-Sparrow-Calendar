@@ -1,0 +1,22 @@
+[
+  { "date": "2025-05-01", "startTime": "09:00", "endTime": "10:00", "title": "Project Kickoff" },
+  { "date": "2025-05-02", "startTime": "14:00", "endTime": "15:30", "title": "Design Review" },
+  { "date": "2025-05-05", "startTime": "11:00", "endTime": "12:00", "title": "Team Sync" },
+  { "date": "2025-05-06", "startTime": "08:00", "endTime": "09:00", "title": "Daily Standup" },
+  { "date": "2025-05-08", "startTime": "10:30", "endTime": "11:30", "title": "Client Presentation" },
+  { "date": "2025-05-10", "startTime": "13:00", "endTime": "14:00", "title": "Tech Workshop" },
+  { "date": "2025-05-12", "startTime": "16:00", "endTime": "17:00", "title": "Weekly Catchup" },
+  { "date": "2025-05-13", "startTime": "09:00", "endTime": "10:00", "title": "Code Review" },
+  { "date": "2025-05-15", "startTime": "00:00", "endTime": "01:30", "title": "Daily Standup" },
+  { "date": "2025-05-15", "startTime": "04:30", "endTime": "07:30", "title": "Weekly Catchup" },
+  { "date": "2025-05-16", "startTime": "11:00", "endTime": "12:30", "title": "Product Demo" },
+  { "date": "2025-05-17", "startTime": "15:00", "endTime": "16:00", "title": "Sprint Planning" },
+  { "date": "2025-05-18", "startTime": "10:00", "endTime": "11:00", "title": "Client Meeting" },
+  { "date": "2025-05-19", "startTime": "13:00", "endTime": "14:00", "title": "Marketing Sync" },
+  { "date": "2025-05-20", "startTime": "09:00", "endTime": "10:00", "title": "Daily Standup" },
+  { "date": "2025-05-21", "startTime": "14:00", "endTime": "15:00", "title": "Tech Talk" },
+  { "date": "2025-05-22", "startTime": "10:00", "endTime": "11:00", "title": "UX Review" },
+  { "date": "2025-05-23", "startTime": "12:00", "endTime": "13:00", "title": "Customer Feedback" },
+  { "date": "2025-05-24", "startTime": "15:00", "endTime": "16:00", "title": "Retrospective" },
+  { "date": "2025-05-25", "startTime": "09:00", "endTime": "10:00", "title": "Daily Standup" }
+]
