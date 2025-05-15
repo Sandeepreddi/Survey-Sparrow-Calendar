@@ -1,4 +1,34 @@
 [
+ 
+  { "date": "2025-01-02", "startTime": "09:00", "endTime": "10:00", "title": "New Year Planning" },
+  { "date": "2025-01-06", "startTime": "11:00", "endTime": "12:00", "title": "Team Kickoff" },
+  { "date": "2025-01-10", "startTime": "14:00", "endTime": "15:30", "title": "Product Roadmap" },
+  { "date": "2025-01-15", "startTime": "10:00", "endTime": "11:00", "title": "Client Onboarding" },
+  { "date": "2025-01-20", "startTime": "13:00", "endTime": "14:00", "title": "Marketing Strategy" },
+  { "date": "2025-01-25", "startTime": "15:00", "endTime": "16:00", "title": "Retrospective" },
+
+  
+  { "date": "2025-02-03", "startTime": "09:00", "endTime": "10:00", "title": "Sprint Planning" },
+  { "date": "2025-02-07", "startTime": "11:00", "endTime": "12:30", "title": "UX Review" },
+  { "date": "2025-02-14", "startTime": "10:00", "endTime": "11:00", "title": "Valentine's Sync" },
+  { "date": "2025-02-18", "startTime": "14:00", "endTime": "15:00", "title": "Tech Demo" },
+  { "date": "2025-02-24", "startTime": "09:30", "endTime": "11:00", "title": "Quarterly Review" },
+
+
+  { "date": "2025-03-05", "startTime": "13:00", "endTime": "14:00", "title": "Client Check-in" },
+  { "date": "2025-03-10", "startTime": "10:00", "endTime": "11:30", "title": "Product Launch" },
+  { "date": "2025-03-15", "startTime": "15:00", "endTime": "16:00", "title": "Team Building" },
+  { "date": "2025-03-20", "startTime": "09:00", "endTime": "10:00", "title": "Code Review" },
+  { "date": "2025-03-27", "startTime": "14:00", "endTime": "15:30", "title": "Budget Meeting" },
+
+
+  { "date": "2025-04-01", "startTime": "10:00", "endTime": "11:00", "title": "Q2 Planning" },
+  { "date": "2025-04-07", "startTime": "13:00", "endTime": "14:00", "title": "Design Sprint" },
+  { "date": "2025-04-15", "startTime": "09:30", "endTime": "11:00", "title": "Client Workshop" },
+  { "date": "2025-04-22", "startTime": "14:00", "endTime": "15:00", "title": "Progress Review" },
+  { "date": "2025-04-28", "startTime": "11:00", "endTime": "12:00", "title": "Retrospective" },
+
+
   { "date": "2025-05-01", "startTime": "09:00", "endTime": "10:00", "title": "Project Kickoff" },
   { "date": "2025-05-02", "startTime": "14:00", "endTime": "15:30", "title": "Design Review" },
   { "date": "2025-05-05", "startTime": "11:00", "endTime": "12:00", "title": "Team Sync" },
@@ -18,5 +48,50 @@
   { "date": "2025-05-22", "startTime": "10:00", "endTime": "11:00", "title": "UX Review" },
   { "date": "2025-05-23", "startTime": "12:00", "endTime": "13:00", "title": "Customer Feedback" },
   { "date": "2025-05-24", "startTime": "15:00", "endTime": "16:00", "title": "Retrospective" },
-  { "date": "2025-05-25", "startTime": "09:00", "endTime": "10:00", "title": "Daily Standup" }
+  { "date": "2025-05-25", "startTime": "09:00", "endTime": "10:00", "title": "Daily Standup" },
+
+
+  { "date": "2025-06-03", "startTime": "09:00", "endTime": "10:00", "title": "Mid-Year Review" },
+  { "date": "2025-06-09", "startTime": "15:00", "endTime": "16:30", "title": "Strategy Session" },
+  { "date": "2025-06-16", "startTime": "11:00", "endTime": "12:00", "title": "Client Meeting" },
+  { "date": "2025-06-23", "startTime": "14:00", "endTime": "15:00", "title": "Tech Talk" },
+  { "date": "2025-06-30", "startTime": "10:00", "endTime": "11:00", "title": "Retrospective" },
+
+
+  { "date": "2025-07-04", "startTime": "11:00", "endTime": "12:00", "title": "Independence Day Sync" },
+  { "date": "2025-07-10", "startTime": "09:30", "endTime": "11:00", "title": "Product Roadmap" },
+  { "date": "2025-07-17", "startTime": "14:00", "endTime": "15:00", "title": "Design Review" },
+  { "date": "2025-07-22", "startTime": "10:00", "endTime": "11:00", "title": "Team Lunch" },
+  { "date": "2025-07-29", "startTime": "13:00", "endTime": "14:30", "title": "Quarterly Planning" },
+
+  { "date": "2025-08-05", "startTime": "09:00", "endTime": "10:00", "title": "Sprint Kickoff" },
+  { "date": "2025-08-12", "startTime": "15:00", "endTime": "16:00", "title": "Client Demo" },
+  { "date": "2025-08-19", "startTime": "11:00", "endTime": "12:30", "title": "UX Workshop" },
+  { "date": "2025-08-25", "startTime": "14:00", "endTime": "15:00", "title": "Progress Review" },
+
+
+  { "date": "2025-09-02", "startTime": "10:00", "endTime": "11:00", "title": "Q3 Review" },
+  { "date": "2025-09-09", "startTime": "13:00", "endTime": "14:00", "title": "Team Building" },
+  { "date": "2025-09-16", "startTime": "09:30", "endTime": "11:00", "title": "Product Strategy" },
+  { "date": "2025-09-23", "startTime": "14:00", "endTime": "15:00", "title": "Client Check-in" },
+  { "date": "2025-09-30", "startTime": "11:00", "endTime": "12:00", "title": "Retrospective" },
+
+
+  { "date": "2025-10-07", "startTime": "09:00", "endTime": "10:00", "title": "Halloween Planning" },
+  { "date": "2025-10-14", "startTime": "15:00", "endTime": "16:30", "title": "Tech Review" },
+  { "date": "2025-10-21", "startTime": "11:00", "endTime": "12:00", "title": "Product Demo" },
+  { "date": "2025-10-28", "startTime": "14:00", "endTime": "15:00", "title": "Q4 Planning" },
+
+
+  { "date": "2025-11-04", "startTime": "10:00", "endTime": "11:00", "title": "Sprint Planning" },
+  { "date": "2025-11-11", "startTime": "13:00", "endTime": "14:00", "title": "Veterans Day Sync" },
+  { "date": "2025-11-18", "startTime": "09:30", "endTime": "11:00", "title": "Year-End Review" },
+  { "date": "2025-11-25", "startTime": "14:00", "endTime": "15:00", "title": "Thanksgiving Prep" },
+
+
+  { "date": "2025-12-02", "startTime": "11:00", "endTime": "12:00", "title": "Holiday Planning" },
+  { "date": "2025-12-09", "startTime": "09:00", "endTime": "10:30", "title": "Year-End Party" },
+  { "date": "2025-12-16", "startTime": "14:00", "endTime": "15:00", "title": "Retrospective" },
+  { "date": "2025-12-23", "startTime": "10:00", "endTime": "11:00", "title": "Christmas Sync" },
+  { "date": "2025-12-30", "startTime": "13:00", "endTime": "14:00", "title": "New Year Planning" }
 ]
