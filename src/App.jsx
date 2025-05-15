@@ -107,14 +107,41 @@ function App() {
           {/* Calendar */}
           <div className="w-full lg:w-2/3">
             <div className="flex items-center justify-between mb-4">
-              <button onClick={prevMonth} className="p-2 rounded-full hover:bg-gray-200">
-                ‹
-              </button>
-              <span className="text-xl font-bold">{currentDate.format('MMMM YYYY')}</span>
-              <button onClick={nextMonth} className="p-2 rounded-full hover:bg-gray-200">
-                ›
-              </button>
-            </div>
+  <div className="flex items-center gap-2">
+    <button
+      onClick={() => setCurrentDate(currentDate.subtract(1, 'year'))}
+      className="p-2 rounded hover:bg-gray-200 text-lg"
+      title="Previous Year"
+    >
+      «
+    </button>
+    <button
+      onClick={() => setCurrentDate(currentDate.subtract(1, 'month'))}
+      className="p-2 rounded hover:bg-gray-200 text-lg"
+      title="Previous Month"
+    >
+      ‹
+    </button>
+  </div>
+  <span className="text-xl font-bold">{currentDate.format('MMMM YYYY')}</span>
+  <div className="flex items-center gap-2">
+    <button
+      onClick={() => setCurrentDate(currentDate.add(1, 'month'))}
+      className="p-2 rounded hover:bg-gray-200 text-lg"
+      title="Next Month"
+    >
+      ›
+    </button>
+    <button
+      onClick={() => setCurrentDate(currentDate.add(1, 'year'))}
+      className="p-2 rounded hover:bg-gray-200 text-lg"
+      title="Next Year"
+    >
+      »
+    </button>
+  </div>
+</div>
+
 
             <div className="grid grid-cols-7 gap-1 text-center text-sm font-medium text-gray-600 mb-2">
               {['Sun','Mon','Tue','Wed','Thu','Fri','Sat'].map(day => (
